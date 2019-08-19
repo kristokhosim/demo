@@ -1,14 +1,89 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+  "posts": {
+     "data": [
+        {
+            "image": {
+                "file_name": "merchants/09f7a4fa2e5d1d9949cde060d286f633_rrrvma",
+                "original_url": "https://cdn.qupas.id/qupas/image/upload/merchants/09f7a4fa2e5d1d9949cde060d286f633_rrrvma",
+                "custom_url": "https://cdn.qupas.id/qupas/image/upload/{/params}/merchants/09f7a4fa2e5d1d9949cde060d286f633_rrrvma",
+                "height": null,
+                "width": null,
+                "type": "image"
+            },
+            "total_ratings": "0",
+            "id": "ff39bba0-0e35-11e9-a3f5-e39f2938630b",
+            "category_id": "077cadc0-30b7-11e8-8ec3-5b0211f052da",
+            "province_id": 1,
+            "city_id": 17,
+            "subdistrict_id": 259,
+            "name": "Qupas Travel Bali",
+            "slug": "qupas-travel-bali",
+            "address": "Jalan Raya Gusti Ngurah Rai, Tuban, Kuta, Kabupaten Badung, Bali 80362",
+            "latitude": "-8.7460877000",
+            "longitude": "115.1673121500",
+            "phone_number": "0318688800",
+            "email": "merchant@qupas.id",
+            "instagram_location_id": null,
+            "instagram": null,
+            "facebook": null,
+            "total_bookmarks": "1",
+            "total_views": "0",
+            "total_reviews": "0",
+            "description": null,
+            "created_by": null,
+            "approved_by": null,
+            "requested_by": null,
+            "average_price": "0",
+            "minimum_price": "0",
+            "maximum_price": "0",
+            "status": "active",
+            "is_verified": 1,
+            "verified_at": "2019-01-23T09:12:54.000Z",
+            "is_free_of_charge": 0,
+            "is_has_promotion": 0,
+            "total_media": 0,
+            "type": "internal_merchant",
+            "created_at": "2019-01-02T02:27:48.000Z",
+            "updated_at": "2019-06-14T03:28:14.000Z",
+            "deleted_at": null,
+            "role": {
+                "display_name": "Merchant Manager",
+                "description": "",
+                "id": "07454930-9d70-11e9-9b4d-e5eaa01003f6",
+                "slug": "merchant-manager",
+                "permissions": [
+                    {
+                        "display_name": "Lihat Merchant",
+                        "description": null,
+                        "id": "3b97f7d0-2285-11e8-89ac-dfc6f5796ef0",
+                        "slug": "view-merchant"
+                    }
+                ]
+            }
+        }
+    ],
+    "pagination": {
+        "total": 1,
+        "per_page": 0,
+        "current_page": 0,
+        "last_page": null,
+        "next_page_url": "http://127.0.0.1/v1/merchant?limit=1&page=1",
+        "prev_page_url": "",
+        "from": 1,
+        "to": 1
+    },
+    "meta": {
+        "type": "success",
+        "code": 200,
+        "response_id": "9fb90a40-d598-4f75-8e33-c33d0be41c69",
+        "messages": [
+            {
+                "param": "",
+                "message": "Data berhasil ditampilkan",
+                "value": ""
+            }
+        ]
+    }
   }
+
 }
