@@ -1,129 +1,131 @@
 {
-    "data": {
-        "featured_image": {
-            "file_name": "development/vouchers/f4b46dc87dc872145ac0d88597074318_vkwv6l",
-            "original_url": "https://cdn.qupas.id/qupas/image/upload/development/vouchers/f4b46dc87dc872145ac0d88597074318_vkwv6l",
-            "custom_url": "https://cdn.qupas.id/qupas/image/upload/{/params}/development/vouchers/f4b46dc87dc872145ac0d88597074318_vkwv6l",
-            "height": null,
-            "width": null,
-            "type": "image"
-        },
-        "id": "877d2b60-adf9-11e9-98a3-370969c47391",
-        "merchant_id": "ff39bba0-0e35-11e9-a3f5-e39f2938630b",
-        "user_id": "bd4e3050-2b31-11e8-a6f2-a79bb844a0ea",
-        "name": "Malang: Bromo Midnight everyday",
-        "slug": "malang-bromo-midnight-everyday",
-        "description": "Fun Adventure hadir dengan memberikan Bromo Midnight Package untuk mengisi waktu weekday dan weekend. Anda akan dimanjakan dengan aneka destinasi wisata yang sudah dipersiapkan oleh tim Fun Adventure, diantaranya Kawah Bromo, Pasir Berbisik, dan Bukit Teletubbies. Anda juga akan ditemani oleh guide yang siap membantu Anda selama berwisata di Bromo.",
-        "terms_conditions": "<ul>↵<li>1 voucher berlaku untuk 1 orang↵</li>↵<li>Dilarang membawa binatang peliharaan↵</li>↵<li>Voucher berlaku setiap hari↵</li>↵<li>Keberangkatan di tanggal 1 - 9 Juni 2019 dan 21 Des’19 - 1 Jan’20, akan dikenakan biaya tambahan sebesar Rp 50.000/orang (dibayarkan langsung ke Fun Adventure saat penggunaan)↵</li>↵<li>Voucher hanya berlaku untuk domestik (Only valid for citizen of Indonesia)↵</li>↵<li>WNA / KITAS Holder, akan dikenakan biaya tambahan sebesar Rp 300.000/orang↵</li>↵<li>Tidak termasuk makan↵</li>↵</ul>",
-        "what_you_get": "<p>Bromo Midnight everyday</p>↵<p>Destinasi wisata</p>↵<ul>↵<li>Penanjakan 1 / Bukit Kingkong (Best spot Sunrise)↵</li>↵<li>Love Hill↵</li>↵<li>Widodaren↵</li>↵<li>Kawah Bromo &amp; Pura↵</li>↵<li>Pasir berbisik↵</li>↵<li>Bukit Teletubbies↵</li>↵<li>Savana↵</li>↵</ul>↵<p>Tiket termasuk:</p>↵<ul>↵<li>Transportasi langsung dari Malang (Jeep)↵</li>↵<li>Tiket masuk Taman Nasional Bromo Tengger Semeru (TNBTS)↵</li>↵<li>Air mineral↵</li>↵<li>Snack↵</li>↵<li>Driver as guide↵</li>↵<li>Masker↵</li>↵</ul>↵<p>Tour Itenerary Bromo Midnight Everyday <b>klik di sini</b></a></p>",
-        "phone_reservation_number": null,
-        "min_reservation_days": 0,
-        "closed_order_at": "23:00:00",
-        "redeemable_from": "2019-07-09T17:00:00.000Z",
-        "redeemable_to": "2019-07-19T17:00:00.000Z",
-        "published_from": "2019-07-09T17:00:00.000Z",
-        "published_to": "2019-07-19T17:00:00.000Z",
-        "segmentation": "international",
-        "total_wishlists": 0,
-        "type": "special_package",
-        "status": "inactive",
-        "created_at": "2019-07-24T09:58:04.000Z",
-        "updated_at": "2019-07-24T09:58:04.000Z",
-        "deleted_at": null,
-        "original_price": "100000.00",
-        "discount_type": "percent",
-        "discount_value": "10.00",
-        "discounted_price": "90000.00",
-        "privileged_discount_type": "percent",
-        "privileged_discount_value": "10.00",
-        "privileged_discounted_price": "90000.00",
-        "total_sold": "0",
-        "total_stock": "0",
-        "voucher_variations": [
-            {
-                "id": "877d5270-adf9-11e9-98a3-370969c47391",
-                "voucher_id": "877d2b60-adf9-11e9-98a3-370969c47391",
-                "name": "Couple Package",
-                "slug": "couple-package",
-                "stock": 0,
-                "total_sold": 0,
-                "buy_price": "100000.00",
-                "original_price": "100000.00",
-                "discount_type": "percent",
-                "discount_value": "10.00",
-                "discounted_price": "90000.00",
-                "privileged_discount_type": "percent",
-                "privileged_discount_value": "10.00",
-                "privileged_discounted_price": "90000.00",
-                "min_order": 0,
-                "created_at": "2019-07-24T09:58:04.000Z",
-                "updated_at": "2019-07-24T09:58:04.000Z",
-                "deleted_at": null
-            }
-        ],
-        "voucher_media": [
-            {
-                "src": {
-                    "file_name": "development/vouchers/opini_id_zqgrz0",
-                    "original_url": "https://cdn.qupas.id/qupas/video/upload/development/vouchers/opini_id_zqgrz0",
-                    "custom_url": "https://cdn.qupas.id/qupas/video/upload/{/params}/development/vouchers/opini_id_zqgrz0",
-                    "thumbnail_url": "https://cdn.qupas.id/qupas/video/upload/development/vouchers/opini_id_zqgrz0.jpg",
-                    "thumbnail_custom_url": "https://cdn.qupas.id/qupas/video/upload/development/vouchers/opini_id_zqgrz0.jpg",
-                    "height": null,
-                    "width": null,
+    "promotion": {
+        "data": {
+            "featured_image": {
+                "file_name": "development/vouchers/f4b46dc87dc872145ac0d88597074318_vkwv6l",
+                "original_url": "https://cdn.qupas.id/qupas/image/upload/development/vouchers/f4b46dc87dc872145ac0d88597074318_vkwv6l",
+                "custom_url": "https://cdn.qupas.id/qupas/image/upload/{/params}/development/vouchers/f4b46dc87dc872145ac0d88597074318_vkwv6l",
+                "height": null,
+                "width": null,
+                "type": "image"
+            },
+            "id": "877d2b60-adf9-11e9-98a3-370969c47391",
+            "merchant_id": "ff39bba0-0e35-11e9-a3f5-e39f2938630b",
+            "user_id": "bd4e3050-2b31-11e8-a6f2-a79bb844a0ea",
+            "name": "Malang: Bromo Midnight everyday",
+            "slug": "malang-bromo-midnight-everyday",
+            "description": "Fun Adventure hadir dengan memberikan Bromo Midnight Package untuk mengisi waktu weekday dan weekend. Anda akan dimanjakan dengan aneka destinasi wisata yang sudah dipersiapkan oleh tim Fun Adventure, diantaranya Kawah Bromo, Pasir Berbisik, dan Bukit Teletubbies. Anda juga akan ditemani oleh guide yang siap membantu Anda selama berwisata di Bromo.",
+            "terms_conditions": "<ul>↵<li>1 voucher berlaku untuk 1 orang↵</li>↵<li>Dilarang membawa binatang peliharaan↵</li>↵<li>Voucher berlaku setiap hari↵</li>↵<li>Keberangkatan di tanggal 1 - 9 Juni 2019 dan 21 Des’19 - 1 Jan’20, akan dikenakan biaya tambahan sebesar Rp 50.000/orang (dibayarkan langsung ke Fun Adventure saat penggunaan)↵</li>↵<li>Voucher hanya berlaku untuk domestik (Only valid for citizen of Indonesia)↵</li>↵<li>WNA / KITAS Holder, akan dikenakan biaya tambahan sebesar Rp 300.000/orang↵</li>↵<li>Tidak termasuk makan↵</li>↵</ul>",
+            "what_you_get": "<p>Bromo Midnight everyday</p>↵<p>Destinasi wisata</p>↵<ul>↵<li>Penanjakan 1 / Bukit Kingkong (Best spot Sunrise)↵</li>↵<li>Love Hill↵</li>↵<li>Widodaren↵</li>↵<li>Kawah Bromo &amp; Pura↵</li>↵<li>Pasir berbisik↵</li>↵<li>Bukit Teletubbies↵</li>↵<li>Savana↵</li>↵</ul>↵<p>Tiket termasuk:</p>↵<ul>↵<li>Transportasi langsung dari Malang (Jeep)↵</li>↵<li>Tiket masuk Taman Nasional Bromo Tengger Semeru (TNBTS)↵</li>↵<li>Air mineral↵</li>↵<li>Snack↵</li>↵<li>Driver as guide↵</li>↵<li>Masker↵</li>↵</ul>↵<p>Tour Itenerary Bromo Midnight Everyday <b>klik di sini</b></a></p>",
+            "phone_reservation_number": null,
+            "min_reservation_days": 0,
+            "closed_order_at": "23:00:00",
+            "redeemable_from": "2019-07-09T17:00:00.000Z",
+            "redeemable_to": "2019-07-19T17:00:00.000Z",
+            "published_from": "2019-07-09T17:00:00.000Z",
+            "published_to": "2019-07-19T17:00:00.000Z",
+            "segmentation": "international",
+            "total_wishlists": 0,
+            "type": "special_package",
+            "status": "inactive",
+            "created_at": "2019-07-24T09:58:04.000Z",
+            "updated_at": "2019-07-24T09:58:04.000Z",
+            "deleted_at": null,
+            "original_price": "100000.00",
+            "discount_type": "percent",
+            "discount_value": "10.00",
+            "discounted_price": "90000.00",
+            "privileged_discount_type": "percent",
+            "privileged_discount_value": "10.00",
+            "privileged_discounted_price": "90000.00",
+            "total_sold": "0",
+            "total_stock": "0",
+            "voucher_variations": [
+                {
+                    "id": "877d5270-adf9-11e9-98a3-370969c47391",
+                    "voucher_id": "877d2b60-adf9-11e9-98a3-370969c47391",
+                    "name": "Couple Package",
+                    "slug": "couple-package",
+                    "stock": 0,
+                    "total_sold": 0,
+                    "buy_price": "100000.00",
+                    "original_price": "100000.00",
+                    "discount_type": "percent",
+                    "discount_value": "10.00",
+                    "discounted_price": "90000.00",
+                    "privileged_discount_type": "percent",
+                    "privileged_discount_value": "10.00",
+                    "privileged_discounted_price": "90000.00",
+                    "min_order": 0,
+                    "created_at": "2019-07-24T09:58:04.000Z",
+                    "updated_at": "2019-07-24T09:58:04.000Z",
+                    "deleted_at": null
+                }
+            ],
+            "voucher_media": [
+                {
+                    "src": {
+                        "file_name": "development/vouchers/opini_id_zqgrz0",
+                        "original_url": "https://cdn.qupas.id/qupas/video/upload/development/vouchers/opini_id_zqgrz0",
+                        "custom_url": "https://cdn.qupas.id/qupas/video/upload/{/params}/development/vouchers/opini_id_zqgrz0",
+                        "thumbnail_url": "https://cdn.qupas.id/qupas/video/upload/development/vouchers/opini_id_zqgrz0.jpg",
+                        "thumbnail_custom_url": "https://cdn.qupas.id/qupas/video/upload/development/vouchers/opini_id_zqgrz0.jpg",
+                        "height": null,
+                        "width": null,
+                        "type": "video"
+                    },
+                    "id": "877da091-adf9-11e9-98a3-370969c47391",
+                    "media_id": "6acd7ea0-a2c5-11e9-b052-cfef24f14cb8",
+                    "voucher_id": "877d2b60-adf9-11e9-98a3-370969c47391",
+                    "position": 3,
+                    "caption": "Bromo Vacation",
                     "type": "video"
                 },
-                "id": "877da091-adf9-11e9-98a3-370969c47391",
-                "media_id": "6acd7ea0-a2c5-11e9-b052-cfef24f14cb8",
-                "voucher_id": "877d2b60-adf9-11e9-98a3-370969c47391",
-                "position": 3,
-                "caption": "Bromo Vacation",
-                "type": "video"
-            },
-            {
-                "src": {
-                    "file_name": "development/vouchers/0bf92059bf1e2db9556fee40b16f62b2_hpelhk",
-                    "original_url": "https://cdn.qupas.id/qupas/image/upload/development/vouchers/0bf92059bf1e2db9556fee40b16f62b2_hpelhk",
-                    "custom_url": "https://cdn.qupas.id/qupas/image/upload/{/params}/development/vouchers/0bf92059bf1e2db9556fee40b16f62b2_hpelhk",
-                    "height": null,
-                    "width": null,
+                {
+                    "src": {
+                        "file_name": "development/vouchers/0bf92059bf1e2db9556fee40b16f62b2_hpelhk",
+                        "original_url": "https://cdn.qupas.id/qupas/image/upload/development/vouchers/0bf92059bf1e2db9556fee40b16f62b2_hpelhk",
+                        "custom_url": "https://cdn.qupas.id/qupas/image/upload/{/params}/development/vouchers/0bf92059bf1e2db9556fee40b16f62b2_hpelhk",
+                        "height": null,
+                        "width": null,
+                        "type": "image"
+                    },
+                    "id": "877da090-adf9-11e9-98a3-370969c47391",
+                    "media_id": "a5d39f30-a2c4-11e9-a3a0-5dc9275f57a4",
+                    "voucher_id": "877d2b60-adf9-11e9-98a3-370969c47391",
+                    "position": 2,
+                    "caption": "Bromo Vacation 1",
                     "type": "image"
                 },
-                "id": "877da090-adf9-11e9-98a3-370969c47391",
-                "media_id": "a5d39f30-a2c4-11e9-a3a0-5dc9275f57a4",
-                "voucher_id": "877d2b60-adf9-11e9-98a3-370969c47391",
-                "position": 2,
-                "caption": "Bromo Vacation 1",
-                "type": "image"
-            },
-            {
-                "src": {
-                    "file_name": "development/vouchers/0b0139486973714cdf0a8ba266e4ed17_uzpbbe",
-                    "original_url": "https://cdn.qupas.id/qupas/image/upload/development/vouchers/0b0139486973714cdf0a8ba266e4ed17_uzpbbe",
-                    "custom_url": "https://cdn.qupas.id/qupas/image/upload/{/params}/development/vouchers/0b0139486973714cdf0a8ba266e4ed17_uzpbbe",
-                    "height": null,
-                    "width": null,
+                {
+                    "src": {
+                        "file_name": "development/vouchers/0b0139486973714cdf0a8ba266e4ed17_uzpbbe",
+                        "original_url": "https://cdn.qupas.id/qupas/image/upload/development/vouchers/0b0139486973714cdf0a8ba266e4ed17_uzpbbe",
+                        "custom_url": "https://cdn.qupas.id/qupas/image/upload/{/params}/development/vouchers/0b0139486973714cdf0a8ba266e4ed17_uzpbbe",
+                        "height": null,
+                        "width": null,
+                        "type": "image"
+                    },
+                    "id": "877d7980-adf9-11e9-98a3-370969c47391",
+                    "media_id": "7b326220-a2c4-11e9-a3a0-5dc9275f57a4",
+                    "voucher_id": "877d2b60-adf9-11e9-98a3-370969c47391",
+                    "position": 1,
+                    "caption": "Foto Bersama Trip Bromo",
                     "type": "image"
-                },
-                "id": "877d7980-adf9-11e9-98a3-370969c47391",
-                "media_id": "7b326220-a2c4-11e9-a3a0-5dc9275f57a4",
-                "voucher_id": "877d2b60-adf9-11e9-98a3-370969c47391",
-                "position": 1,
-                "caption": "Foto Bersama Trip Bromo",
-                "type": "image"
-            }
-        ]
-    },
-    "meta": {
-        "type": "success",
-        "code": 200,
-        "response_id": "ed6824fc-b34b-4a5a-81e4-b9285abfd828",
-        "messages": [
-            {
-                "param": "",
-                "message": "Data berhasil ditampilkan",
-                "value": ""
-            }
-        ]
+                }
+            ]
+        },
+        "meta": {
+            "type": "success",
+            "code": 200,
+            "response_id": "ed6824fc-b34b-4a5a-81e4-b9285abfd828",
+            "messages": [
+                {
+                    "param": "",
+                    "message": "Data berhasil ditampilkan",
+                    "value": ""
+                }
+            ]
+        }
     }
 }
