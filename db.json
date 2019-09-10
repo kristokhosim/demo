@@ -154,22 +154,6 @@
                     "position": 1,
                     "caption": "Foto Bersama Trip Bromo",
                     "type": "image"
-                },
-                {
-                    "src": {
-                        "file_name": "development/vouchers/0bf92059bf1e2db9556fee40b16f62b2_hpelhk",
-                        "original_url": "https://cdn.qupas.id/qupas/image/upload/development/vouchers/0bf92059bf1e2db9556fee40b16f62b2_hpelhk",
-                        "custom_url": "https://cdn.qupas.id/qupas/image/upload/{/params}/development/vouchers/0bf92059bf1e2db9556fee40b16f62b2_hpelhk",
-                        "height": null,
-                        "width": null,
-                        "type": "image"
-                    },
-                    "id": "f7efea63-b8ce-11e9-ae6a-37e00d53ecc7",
-                    "media_id": "a5d39f30-a2c4-11e9-a3a0-5dc9275f57a4",
-                    "voucher_id": "f7efc350-b8ce-11e9-ae6a-37e00d53ecc7",
-                    "position": 2,
-                    "caption": "Bromo Vacation 1",
-                    "type": "image"
                 }
             ]
         },
