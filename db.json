@@ -170,24 +170,6 @@
                     "position": 2,
                     "caption": "Bromo Vacation 1",
                     "type": "image"
-                },
-                {
-                    "src": {
-                        "file_name": "development/vouchers/opini_id_zqgrz0",
-                        "original_url": "https://cdn.qupas.id/qupas/video/upload/development/vouchers/opini_id_zqgrz0",
-                        "custom_url": "https://cdn.qupas.id/qupas/video/upload/{/params}/development/vouchers/opini_id_zqgrz0",
-                        "thumbnail_url": "https://cdn.qupas.id/qupas/video/upload/development/vouchers/opini_id_zqgrz0.jpg",
-                        "thumbnail_custom_url": "https://cdn.qupas.id/qupas/video/upload/development/vouchers/opini_id_zqgrz0.jpg",
-                        "height": null,
-                        "width": null,
-                        "type": "video"
-                    },
-                    "id": "f7f01170-b8ce-11e9-ae6a-37e00d53ecc7",
-                    "media_id": "6acd7ea0-a2c5-11e9-b052-cfef24f14cb8",
-                    "voucher_id": "f7efc350-b8ce-11e9-ae6a-37e00d53ecc7",
-                    "position": 3,
-                    "caption": "Bromo Vacation",
-                    "type": "video"
                 }
             ]
         },
