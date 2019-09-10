@@ -136,30 +136,6 @@
                     "created_at": "2019-08-07T11:51:07.000Z",
                     "updated_at": "2019-08-07T11:51:07.000Z",
                     "deleted_at": null
-                },
-                {
-                    "id": "f7efea61-b8ce-11e9-ae6a-37e00d53ecc7",
-                    "voucher_id": "f7efc350-b8ce-11e9-ae6a-37e00d53ecc7",
-                    "name": "Single Package",
-                    "slug": "single-package",
-                    "description": "",
-                    "stock": 0,
-                    "total_sold": 0,
-                    "commission_type": null,
-                    "commission_value": null,
-                    "buy_price": "100000.00",
-                    "original_price": "100000.00",
-                    "discount_type": "percent",
-                    "discount_value": "10.00",
-                    "discounted_price": "90000.00",
-                    "privileged_discount_type": "percent",
-                    "privileged_discount_value": "10.00",
-                    "privileged_discounted_price": null,
-                    "min_order": 0,
-                    "segmentation": "domestic",
-                    "created_at": "2019-08-07T11:51:07.000Z",
-                    "updated_at": "2019-08-07T11:51:07.000Z",
-                    "deleted_at": null
                 }
             ],
             "voucher_media": [
